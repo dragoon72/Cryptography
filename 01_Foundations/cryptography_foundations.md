@@ -33,7 +33,7 @@
   * **Symmetric Key:** The *same* key is used for both encryption and decryption (e.g., AES). Fast, but key distribution is difficult.
   * **Asymmetric Key (Public/Private):** A pair of keys is used. Data encrypted with the Public Key can only be decrypted by the corresponding Private Key (e.g., RSA, ECC).
 
-![Symmetric vs Asymmetric Encryption](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Symmetric_asymmetric_encryption.svg/640px-Symmetric_asymmetric_encryption.svg.png)
+
 
 ### Brute Force
 * **Definition:** A cryptographic attack method where an attacker tries every possible key combination until the correct one is found.
