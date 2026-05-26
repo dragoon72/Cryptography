@@ -11,7 +11,7 @@
   - Brute Force
   - Entropy
 
-- [Classical Cryptography](02_Classical Cryptography)
+- [Classical Cryptography](02_Classical%20Cryptography)
   - Caesar Cipher
   - Atbash Cipher
   - ROT13
