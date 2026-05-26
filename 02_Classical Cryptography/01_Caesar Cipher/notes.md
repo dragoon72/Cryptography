@@ -321,5 +321,15 @@ Reason:
 
 Add observations here.
 
-```text
 ```
+Brute force does not always return the final answer.
+
+It returns candidate plaintexts.
+
+The analyst must:
+
+1. Identify meaningful text
+2. Detect partial decryption
+3. Check for additional cipher layers
+```
+[example]()
