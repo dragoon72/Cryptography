@@ -332,4 +332,7 @@ The analyst must:
 2. Detect partial decryption
 3. Check for additional cipher layers
 ```
-[example]()
+[example](https://learn.cylabacademy.org/learning-paths/17/133?workspace=true)
+```text
+here in this example we have to look for the meaningfull decrypted texts and check whether its partially or fully readable.If none of the shifts make it fully legible then we take the one with the closest meaningfull text and then again bruteforce it for the other half
+```
