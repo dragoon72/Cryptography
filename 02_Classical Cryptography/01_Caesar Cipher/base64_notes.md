@@ -296,3 +296,8 @@ It is:
 - reversible
 - not secure
 - commonly used in networking, emails, APIs, and CTFs
+
+  ```text
+  sometimes we have to do it consecutively to find the flag
+  ```
+  
